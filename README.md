@@ -14,7 +14,7 @@ Start with the introductory materials. They're listed numerically and classified
 
 ## Contributing
 
-We believe in the power of community and collaboration. If you have materials, insights, or ideas you'd like to share, we encourage contributions! Please check our contributing guidelines for more information on how to get involved.
+We believe in the power of community and collaboration. If you have materials, insights, or ideas you'd like to share, we encourage contributions!
 
 ## Feedback and Suggestions
 
