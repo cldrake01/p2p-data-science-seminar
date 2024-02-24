@@ -18,7 +18,7 @@ We believe in the power of community and collaboration. If you have materials, i
 
 ## Feedback and Suggestions
 
-Your feedback is invaluable to us as we strive to improve and expand our resource hub. If you have any suggestions, questions, or comments, please feel free to open an issue in this repository or contact us directly via `cldrake01@bvsd.org`. We're always looking for ways to better serve the learning community.
+Your feedback is invaluable to us as we strive to improve and expand our resource hub. If you have any suggestions, questions, or comments, please feel free to open an issue in this repository or contact us directly via `cldrake01@bvsd.org` or `jacerullo01@bvsd.org`. We're always looking for ways to better serve the learning community.
 
 ## Stay Updated
 
