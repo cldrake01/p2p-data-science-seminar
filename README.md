@@ -10,11 +10,11 @@ Welcome to our GitHub repository, the central hub for resources, materials, and 
 
 ## How to Navigate and Use This Repository
 
-Start with the introductory materials in the `lectures` folder. These are designed to get you up to speed on the basics of data science and machine learning. 
+Start with the introductory materials. They're listed numerically and classified as a $n$-`notebook`, $n$-`presentation`, or $n$-`resource`.
 
 ## Contributing
 
-We believe in the power of community and collaboration. If you have materials, insights, or ideas you'd like to share, we encourage contributions! Please check our contributing guidelines for more information on how to get involved.
+We believe in the power of community and collaboration. If you have materials, insights, or ideas you'd like to share, we encourage contributions!
 
 ## Feedback and Suggestions
 
